@@ -15,38 +15,26 @@ I specialize in building **secure, high-availability systems** across AWS, Azure
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud Platforms
+| **Cloud Platforms**                                  | **DevOps & CI/CD**            |
+| ---------------------------------------------------- | ----------------------------- |
+| AWS (EKS, ECS, Lambda, RDS, S3, Cognito, CloudWatch) | GitHub Actions                |
+| Microsoft Azure (AKS, App Services, Azure DevOps)    | GitLab CI                     |
+| Google Cloud Platform (GCP)                          | Jenkins                       |
+|                                                      | ArgoCD (GitOps), Azure DevOps |
+|                                                      | Nexus, Docker Registry        |
 
-* AWS (EKS, ECS, Lambda, RDS, S3, Cognito, CloudWatch)
-* Microsoft Azure (AKS, App Services, Azure DevOps)
-* Google Cloud Platform (GCP)
+| **Infrastructure as Code**                          | **Containers & Orchestration** |
+| ----------------------------------------            | ------------------------------ |
+| Terraform, CloudFormation, ARM Templates            | Docker                         |
+| Ansible, Chef, Puppet                               | Kubernetes (EKS, AKS, GKE)     |
+|                                                     | Helm, Istio, Flux CD           |
 
-### ⚙️ DevOps & CI/CD
+| **Security & Monitoring**                           | **Languages & Scripting**        |
+| -------------------------------------------         | -------------------------------- |
+| Trivy, SonarQube, OWASP ZAP, GitLeaks               | Python, Bash, PowerShell, Groovy |
+| Prometheus, Grafana, Datadog, CloudWatch            | SQL, YAML, HTML                  |
+| ELK Stack (Elasticsearch, Logstash, Kibana)         |                                  |
 
-* GitHub Actions, GitLab CI, Jenkins
-* ArgoCD (GitOps), Azure DevOps
-* Nexus, Docker Registry
-
-### 🏗️ Infrastructure as Code
-
-* Terraform, CloudFormation, ARM Templates
-* Ansible, Chef, Puppet
-
-### 🐳 Containers & Orchestration
-
-* Docker, Kubernetes (EKS, AKS, GKE)
-* Helm, Istio, Flux CD
-
-### 🔐 Security & Monitoring
-
-* Trivy, SonarQube, OWASP ZAP, GitLeaks
-* Prometheus, Grafana, Datadog, CloudWatch
-* ELK Stack (Elasticsearch, Logstash, Kibana)
-
-### 💻 Languages & Scripting
-
-* Python, Bash, PowerShell, Groovy
-* SQL, YAML, HTML
 
 ---
 
