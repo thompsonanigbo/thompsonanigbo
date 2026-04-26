@@ -74,31 +74,33 @@ I specialize in building **secure, high-availability systems** across AWS, Azure
 
 ---
 
-## 💼 Professional Experience
+<h2>👨‍💻 DevOps Projects:</h2>
 
-### 🏢 DevOps Engineer — Prima Software UK *(2024 – Present)*
+-  [Building And Dockernize Node.je Express Web App From Scretch](https://github.com/akpatiudo/Node.js-doc-web-app)
 
-* Built and standardized CI/CD pipelines using GitHub Actions & Jenkins
-* Automated Kubernetes (EKS) infrastructure with Terraform
-* Implemented GitOps workflows using ArgoCD
-* Integrated monitoring with Prometheus & Grafana
+-  [Exploring ARM Templates: Creating And Deploying Azure Web App](https://github.com/akpatiudo/Arm-template)
 
----
+-  [Automating Infrastructure Deployment on Azure Cloud With Terraform and Azure Pipeline](https://github.com/akpatiudo/democli)
 
-### 🏢 DevOps Engineer — Zen Software UK *(2022 – 2024)*
+-  [Harnessing Infrastructure as Code with Visual Studio Code and Terraform](https://github.com/akpatiudo/infrastructure)
 
-* Migrated microservices to AWS cloud infrastructure
-* Designed CI/CD pipelines for Java applications
-* Implemented RBAC and IAM security best practices
-* Built serverless automation with AWS Lambda
+-  [Provisioning Azure Resources with Terraform and Visual Studio Code: A Comprehensive Guide](https://github.com/akpatiudo/terraform-azure-resources)
 
----
+-  [Mastering .NET Web App Deployment: A Comprehensive Guide with Azure DevOps and Azure Pipelines]( https://github.com/akpatiudo/dotnetdevops)
 
-### 🏢 Infrastructure Engineer — Expitra *(2019 – 2022)*
+-  [Ansible Roles for Prometheus, Grafana and Nginx Reverse Proxy](https://medium.com/@ebenezerakpati/ansible-roles-for-prometheus-grafana-and-nginx-reverse-proxy-3989067d6588)
 
-* Automated Azure infrastructure deployments with Terraform
-* Built CI/CD pipelines using Azure DevOps & Jenkins
-* Managed containerized workloads and monitoring
+-  [Guide to Setting Up and Automating Tasks with Ansible](https://medium.com/@ebenezerakpati/guide-to-setting-up-and-automating-tasks-with-ansible-5ed31daab815)
+
+-  [Deploying a Web Server with Ansible](https://medium.com/@ebenezerakpati/deploying-a-web-server-with-ansible-7f7770fdcbd3)
+
+-  [Securely Accessing Provisioned Azure Resources with Key Vault in Azure Data Factory](https://medium.com/@ebenezerakpati/securely-accessing-provisioned-azure-resources-with-key-vault-in-azure-data-factory-cde9f66d7657)
+
+-  [Ansible Server And Nodes Setup with Azure: How To Give SUDO Permission To User, Configure Passwordless Login And Install Ansible Using EPEL Repository](https://medium.com/@ebenezerakpati/ansible-server-and-nodes-setup-with-azure-how-to-give-sudo-permission-to-user-configure-959b28c3742c)
+
+-  [Deploying a Multi-Container Application to Azure Kubernetes Services](https://medium.com/@ebenezerakpati/deploying-a-multi-container-application-to-azure-kubernetes-services-7838df11d14e)
+
+-  [Steps to Set Up Prometheus and Grafana on Kubernetes Using Helm](https://medium.com/@ebenezerakpati/steps-to-set-up-prometheus-and-grafana-on-kubernetes-using-helm-ca0e5649ed28)
 
 ---
 
